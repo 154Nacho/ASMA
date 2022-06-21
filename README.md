@@ -1,2 +1,2 @@
-# ASMA
- Agents and Multiagent Systems Project
+# TP-ASMA
+Elaboração de um conjunto de agentes inteligentes autónomos que irão explorar um mundo bi-dimensional (i.e., coordenadas x,y, com dimensão 35x35), onde serão agrupados em duas equipas (equipa vermelha e azul), composta por 5 agentes. O objetivo destes agentes passa por explorar este mundo, descobrir a localização dos agentes oponentes e colaborar com os elementos da sua equipa para perseguir e eliminar cada oponente.
